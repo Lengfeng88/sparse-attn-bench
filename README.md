@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 ```bash
 python benchmark/correctness.py
-# Expected: all three modes ✅ PASS (max_rel_err < 1e-2, cos > 0.99)
+# Expected: all three modes PASS (max_rel_err < 1e-2, cos > 0.99)
 ```
 
 ### 2 — Memory sweep
